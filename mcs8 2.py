@@ -11,7 +11,7 @@ def temperature(city_name):
 	else:
 		return None
 
-token = '787875480:AAEdnoGFrialvnrRGC0U6Q46ONj83IJuHv4'
+token = 'your token here'
 print('Start')
 
 bot = telepot.Bot(token)
